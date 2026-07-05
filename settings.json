@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KITABATCRAFT.aternos.me",
+    "port": 42734,
     "version": "",
     "try-creative": false
   },
